@@ -37,4 +37,5 @@ git push -u origin --all
 git push -u origin --tags
 ```bash
 
-수정!!!
+bash에서 수정!!!
+인텔리제이에서 수정!!
