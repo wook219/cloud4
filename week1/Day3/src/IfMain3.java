@@ -1,5 +1,3 @@
-package week1.Day3;
-
 public class IfMain3 {
     public static void main(String[] args) {
         int age = 10;

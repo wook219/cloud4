@@ -1,7 +1,3 @@
-package week1.Day3;
-
-import javax.xml.crypto.Data;
-
 class Data1{
     int x;
 }

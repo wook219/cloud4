@@ -1,5 +1,3 @@
-package week1.Day2;
-
 public class Student {
     private int age;
     private double height;

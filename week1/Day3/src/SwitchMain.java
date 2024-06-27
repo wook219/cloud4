@@ -1,5 +1,3 @@
-package week1.Day3;
-
 public class SwitchMain {
     public static void main(String[] args) {
         char memberGrade = 'A';

@@ -1,5 +1,3 @@
-package week1.Day3;
-
 class Data2{
     int x;
 }
