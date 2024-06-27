@@ -1,3 +1,8 @@
+<<<<<<<< HEAD:week1/Day3/src/SwitchMain.java
+========
+package week1.Day3;
+
+>>>>>>>> 1df66228a84dc2e26799b54b76ba4a8aeaaeaf1d:src/week1/Day3/SwitchMain.java
 public class SwitchMain {
     public static void main(String[] args) {
         char memberGrade = 'A';

@@ -1,3 +1,8 @@
+<<<<<<<< HEAD:week1/Day3/src/ReferenceParamEx.java
+========
+package week1.Day3;
+
+>>>>>>>> 1df66228a84dc2e26799b54b76ba4a8aeaaeaf1d:src/week1/Day3/ReferenceParamEx.java
 class Data2{
     int x;
 }

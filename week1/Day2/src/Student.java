@@ -1,3 +1,8 @@
+<<<<<<<< HEAD:week1/Day2/src/Student.java
+========
+package week1.Day2;
+
+>>>>>>>> 1df66228a84dc2e26799b54b76ba4a8aeaaeaf1d:src/week1/Day2/Student.java
 public class Student {
     private int age;
     private double height;

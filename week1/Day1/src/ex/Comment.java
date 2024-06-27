@@ -1,4 +1,8 @@
+<<<<<<<< HEAD:week1/Day1/src/ex/Comment.java
 package ex;
+========
+package week1.Day1.ex;
+>>>>>>>> 1df66228a84dc2e26799b54b76ba4a8aeaaeaf1d:src/week1/Day1/ex/Comment.java
 
 public class Comment {
     public static void main(String[] args) {
