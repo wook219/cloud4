@@ -1,8 +1,5 @@
-<<<<<<<< HEAD:week1/Day3/src/IfMain3.java
-========
 package week1.Day3;
 
->>>>>>>> 1df66228a84dc2e26799b54b76ba4a8aeaaeaf1d:src/week1/Day3/IfMain3.java
 public class IfMain3 {
     public static void main(String[] args) {
         int age = 10;
