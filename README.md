@@ -38,4 +38,4 @@
 2024-07-23 : Day2. MySQL 설치 및 기본 사용법 NO CODE
 2024-07-24 : Day3. SQL I (AggregateFuncion)
 2024-07-25 : Day4. SQL II (grouping, join, subquery)
-2024-07-26 : Day5. 
+2024-07-26 : Day5. SQL III

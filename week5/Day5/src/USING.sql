@@ -1,0 +1,4 @@
+SELECT *
+FROM 테이블1
+JOIN 테이블2
+USING(기준컬럼);
