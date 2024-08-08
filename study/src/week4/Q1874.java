@@ -9,16 +9,16 @@ public class Q1874 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
-        int N = Integer.parseInt(br.readLine());
+        int N = Integer.parseInt(br.readLine()); //
 
         //스택 생성
-        Stack<Integer> stack = new Stack<>();
+        Stack<Integer> stack = new Stack<>(); //
 
         //pop을 한 다음 다시 시작할 숫자
-        int start = 0;
+        int start = 0; //
 
         //출력에 쓸 SB
-        StringBuilder sb = new StringBuilder();
+        StringBuilder sb = new StringBuilder(); //
 
         while(N > 0){
             int number = Integer.parseInt(br.readLine()); // 수열을 이루는 숫자
