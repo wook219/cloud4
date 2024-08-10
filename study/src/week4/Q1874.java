@@ -23,7 +23,7 @@ public class Q1874 {
         while(N > 0){
             int number = Integer.parseInt(br.readLine()); // 수열을 이루는 숫자
 
-            if(number > start){
+            if(number > start){ // start보다 클때만 시작
                 for (int i = start + 1; i <= number; i++) {
                     stack.push(i);
                     sb.append("+").append('\n');
